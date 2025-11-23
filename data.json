@@ -1,0 +1,308 @@
+[
+  {
+    "nome": "Machado de Assis",
+    "descricao": "Considerado o maior nome da literatura brasileira, Mestre do Realismo, conhecido por sua análise psicológica profunda e ironia sutil.",
+    "data_nascimento": "1839",
+    "data_morte": "1908",
+    "principais_obras": [
+      "Memórias Póstumas de Brás Cubas",
+      "Dom Casmurro",
+      "Quincas Borba",
+      "O Alienista"
+    ],
+    "movimento_literario": "Realismo"
+  },
+  {
+    "nome": "João Guimarães Rosa",
+    "descricao": "Autor revolucionário cuja obra explorou a linguagem de forma única, misturando o regionalismo mineiro com temas universais e metafísicos.",
+    "data_nascimento": "1908",
+    "data_morte": "1967",
+    "principais_obras": [
+      "Grande Sertão: Veredas",
+      "Sagarana",
+      "Primeiras Estórias"
+    ],
+    "movimento_literario": "Modernismo (Pós-45)"
+  },
+  {
+    "nome": "Clarice Lispector",
+    "descricao": "Uma das escritoras mais importantes do século XX. Sua obra é marcada pelo fluxo de consciência, introspecção profunda e exploração da condição humana feminina.",
+    "data_nascimento": "1920",
+    "data_morte": "1977",
+    "principais_obras": [
+      "A Hora da Estrela",
+      "Perto do Coração Selvagem",
+      "Laços de Família",
+      "Água Viva"
+    ],
+    "movimento_literario": "Modernismo (Pós-45)"
+  },
+  {
+    "nome": "Carlos Drummond de Andrade",
+    "descricao": "Poeta central do Modernismo brasileiro. Sua poesia é caracterizada pela ironia, pela reflexão sobre o cotidiano e pelo pessimismo existencial.",
+    "data_nascimento": "1902",
+    "data_morte": "1987",
+    "principais_obras": [
+      "Alguma Poesia",
+      "A Rosa do Povo",
+      "Sentimento do Mundo",
+      "Claro Enigma"
+    ],
+    "movimento_literario": "Modernismo"
+  },
+  {
+    "nome": "José de Alencar",
+    "descricao": "Principal romancista do Romantismo no Brasil, célebre por idealizar o índio (indianismo) e por retratar os costumes urbanos e regionais.",
+    "data_nascimento": "1829",
+    "data_morte": "1877",
+    "principais_obras": [
+      "O Guarani",
+      "Iracema",
+      "Senhora",
+      "Lucíola"
+    ],
+    "movimento_literario": "Romantismo"
+  },
+  {
+    "nome": "Graciliano Ramos",
+    "descricao": "Um dos maiores nomes do Modernismo regionalista. Sua escrita é seca, concisa e focada na miséria do sertão nordestino e na luta pela sobrevivência.",
+    "data_nascimento": "1892",
+    "data_morte": "1953",
+    "principais_obras": [
+      "Vidas Secas",
+      "São Bernardo",
+      "Angústia",
+      "Memórias do Cárcere"
+    ],
+    "movimento_literario": "Modernismo (2ª Geração)"
+  },
+  {
+    "nome": "Jorge Amado",
+    "descricao": "Romancista baiano conhecido por retratar o povo, a cultura e os problemas sociais de sua terra natal, com grande apelo popular.",
+    "data_nascimento": "1912",
+    "data_morte": "2001",
+    "principais_obras": [
+      "Gabriela, Cravo e Canela",
+      "Capitães da Areia",
+      "Dona Flor e Seus Dois Maridos",
+      "Terras do Sem Fim"
+    ],
+    "movimento_literario": "Modernismo (2ª Geração)"
+  },
+  {
+    "nome": "Mário de Andrade",
+    "descricao": "Um dos fundadores do Modernismo brasileiro e principal articulador da Semana de Arte Moderna de 1922. Pesquisador da cultura popular brasileira.",
+    "data_nascimento": "1893",
+    "data_morte": "1945",
+    "principais_obras": [
+      "Macunaíma",
+      "Pauliceia Desvairada",
+      "Amar, Verbo Intransitivo"
+    ],
+    "movimento_literario": "Modernismo (1ª Geração)"
+  },
+  {
+    "nome": "Oswald de Andrade",
+    "descricao": "Poeta e ensaísta radical do Modernismo, famoso pela irreverência e pela criação do conceito de 'Antropofagia', buscando deglutir a cultura estrangeira.",
+    "data_nascimento": "1890",
+    "data_morte": "1954",
+    "principais_obras": [
+      "Memórias Sentimentais de João Miramar",
+      "Serafim Ponte Grande",
+      "Manifesto Antropófago"
+    ],
+    "movimento_literario": "Modernismo (1ª Geração)"
+  },
+  {
+    "nome": "Manuel Bandeira",
+    "descricao": "Poeta modernista cuja obra, lírica e melancólica, aborda o cotidiano, a morte e a infância com grande simplicidade e musicalidade.",
+    "data_nascimento": "1886",
+    "data_morte": "1968",
+    "principais_obras": [
+      "Cinza das Horas",
+      "Libertinagem",
+      "Estrela da Vida Inteira"
+    ],
+    "movimento_literario": "Modernismo"
+  },
+  {
+    "nome": "Cecília Meireles",
+    "descricao": "Uma das maiores poetisas da língua portuguesa, conhecida pelo lirismo, pela musicalidade e pela temática voltada para a transitoriedade da vida.",
+    "data_nascimento": "1901",
+    "data_morte": "1964",
+    "principais_obras": [
+      "Viagem",
+      "Romanceiro da Inconfidência",
+      "Ou isto ou Aquilo"
+    ],
+    "movimento_literario": "Modernismo (2ª Geração)"
+  },
+  {
+    "nome": "Euclides da Cunha",
+    "descricao": "Jornalista, sociólogo e escritor pré-modernista. Sua única obra de ficção e reportagem é um marco ao analisar a Guerra de Canudos sob perspectiva científica e épica.",
+    "data_nascimento": "1866",
+    "data_morte": "1909",
+    "principais_obras": [
+      "Os Sertões",
+      "Contrastes e Confrontos"
+    ],
+    "movimento_literario": "Pré-Modernismo"
+  },
+  {
+    "nome": "Lima Barreto",
+    "descricao": "Escritor pré-modernista, crítico social e cronista do Rio de Janeiro. Sua obra denuncia o preconceito racial e as mazelas da República Velha.",
+    "data_nascimento": "1881",
+    "data_morte": "1922",
+    "principais_obras": [
+      "Triste Fim de Policarpo Quaresma",
+      "O Subterrâneo do Morro do Castelo",
+      "Diário Íntimo"
+    ],
+    "movimento_literario": "Pré-Modernismo"
+  },
+  {
+    "nome": "Álvares de Azevedo",
+    "descricao": "Maior representante da Segunda Geração Romântica (Mal do Século), conhecida pela melancolia, pessimismo, idealização da morte e amor platônico.",
+    "data_nascimento": "1831",
+    "data_morte": "1852",
+    "principais_obras": [
+      "Lira dos Vinte Anos",
+      "Noite na Taverna",
+      "Macário"
+    ],
+    "movimento_literario": "Romantismo (Ultra-romantismo)"
+  },
+  {
+    "nome": "Castro Alves",
+    "descricao": "Conhecido como o 'Poeta dos Escravos', foi o principal expoente da poesia social do Romantismo, engajado na causa abolicionista.",
+    "data_nascimento": "1847",
+    "data_morte": "1871",
+    "principais_obras": [
+      "Os Escravos",
+      "Espumas Flutuantes",
+      "O Navio Negreiro"
+    ],
+    "movimento_literario": "Romantismo (Condoreirismo)"
+  },
+  {
+    "nome": "Aluísio Azevedo",
+    "descricao": "Principal nome do Naturalismo brasileiro. Sua obra se caracteriza pelo determinismo, patologias sociais e pela descrição crua dos ambientes e personagens.",
+    "data_nascimento": "1857",
+    "data_morte": "1913",
+    "principais_obras": [
+      "O Cortiço",
+      "Casa de Pensão",
+      "O Mulato"
+    ],
+    "movimento_literario": "Naturalismo"
+  },
+  {
+    "nome": "Olavo Bilac",
+    "descricao": "Expoente máximo do Parnasianismo brasileiro, famoso pela busca da 'arte pela arte', pelo rigor formal e pelo uso de uma linguagem clássica e erudita.",
+    "data_nascimento": "1865",
+    "data_morte": "1918",
+    "principais_obras": [
+      "Poesias",
+      "Via Láctea",
+      "Tarde"
+    ],
+    "movimento_literario": "Parnasianismo"
+  },
+  {
+    "nome": "Cruz e Sousa",
+    "descricao": "Maior poeta do Simbolismo no Brasil. Sua obra é marcada pela musicalidade, misticismo, pessimismo e pelo uso intenso de sinestesias e aliterações.",
+    "data_nascimento": "1861",
+    "data_morte": "1898",
+    "principais_obras": [
+      "Missal",
+      "Broquéis",
+      "Evocações"
+    ],
+    "movimento_literario": "Simbolismo"
+  },
+  {
+    "nome": "Gregório de Matos",
+    "descricao": "Poeta barroco baiano, conhecido como 'Boca do Inferno' pela sátira ferina, mas também por sua poesia lírica e sacra de grande qualidade formal.",
+    "data_nascimento": "1636",
+    "data_morte": "1696",
+    "principais_obras": [
+      "Poemas Satíricos",
+      "Poemas Líricos",
+      "Obras Completas"
+    ],
+    "movimento_literario": "Barroco"
+  },
+  {
+    "nome": "Rachel de Queiroz",
+    "descricao": "Primeira mulher a ingressar na ABL. Autora cearense que retratou o drama da seca e as questões sociais do Nordeste, pertencente à 2ª Geração Modernista.",
+    "data_nascimento": "1910",
+    "data_morte": "2003",
+    "principais_obras": [
+      "O Quinze",
+      "João Miguel",
+      "Memorial de Maria Moura"
+    ],
+    "movimento_literario": "Modernismo (2ª Geração)"
+  },
+  {
+    "nome": "João Cabral de Melo Neto",
+    "descricao": "Poeta da Geração de 45, conhecido por sua poesia objetiva, antilírica e construtiva, focada em temas regionais como o rio Capibaribe e a caatinga.",
+    "data_nascimento": "1920",
+    "data_morte": "1999",
+    "principais_obras": [
+      "Morte e Vida Severina",
+      "O Cão Sem Plumas",
+      "Museu de Tudo"
+    ],
+    "movimento_literario": "Modernismo (Geração de 45)"
+  },
+  {
+    "nome": "Lygia Fagundes Telles",
+    "descricao": "Escritora contemporânea conhecida por explorar a complexidade psicológica das personagens femininas e a vida urbana, com um estilo sutil e profundo.",
+    "data_nascimento": "1923",
+    "data_morte": "2022",
+    "principais_obras": [
+      "As Meninas",
+      "Ciranda de Pedra",
+      "Verão no Aquário"
+    ],
+    "movimento_literario": "Contemporânea"
+  },
+  {
+    "nome": "Rubem Fonseca",
+    "descricao": "Mestre da literatura urbana contemporânea, conhecido por seu estilo seco, diálogos rápidos e temas que abordam a violência, o erotismo e a marginalidade.",
+    "data_nascimento": "1925",
+    "data_morte": "2020",
+    "principais_obras": [
+      "Feliz Ano Novo",
+      "A Grande Arte",
+      "O Caso Morel",
+      "Lúcia McCartney"
+    ],
+    "movimento_literario": "Contemporânea"
+  },
+  {
+    "nome": "Conceição Evaristo",
+    "descricao": "Destaca-se na literatura contemporânea, sendo voz fundamental na literatura afro-brasileira. Criadora do conceito de 'escrevivência', que une a ficção à experiência da mulher negra.",
+    "data_nascimento": "1946",
+    "data_morte": "null",
+    "principais_obras": [
+      "Ponciá Vicêncio",
+      "Becos da Memória",
+      "Insubmissas Lágrimas de Mulheres"
+    ],
+    "movimento_literario": "Contemporânea"
+  },
+  {
+    "nome": "Ariano Suassuna",
+    "descricao": "Dramaturgo, romancista e poeta paraibano, idealizador do Movimento Armorial, que busca valorizar as formas de arte eruditas e populares do Nordeste brasileiro.",
+    "data_nascimento": "1927",
+    "data_morte": "2014",
+    "principais_obras": [
+      "O Auto da Compadecida",
+      "O Romance d'A Pedra do Reino",
+      "A História d'O Rei Degolado"
+    ],
+    "movimento_literario": "Modernismo (Pós-45)"
+  }
+]
